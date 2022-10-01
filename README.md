@@ -1,0 +1,2 @@
+# calico-cni
+install calico
