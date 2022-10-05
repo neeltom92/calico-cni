@@ -1,14 +1,16 @@
 # calico-cni
 
-====
+
+---
+
 The CiliumNetworkPolicy does not support podSelector
-====
+---
 the steps below are not for CNI instead the basic NetworkPolicies !!!!
-====
+---
 refer this doc for Manifest files :
 
 https://docs.cilium.io/en/stable/policy/language/#layer-3-examples
-====
+---
 
 - installation steps:
 https://www.eksworkshop.com/beginner/120_network-policies/calico/install_calico/
